@@ -1,2 +1,2 @@
 # derekMakesAMistake
-A repo for showing a merge conflict to T1 HOLA
+A repo where Derek actually DIDN'T make a mistake!!!!! >=(
