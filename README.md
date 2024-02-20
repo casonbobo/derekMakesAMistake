@@ -1,2 +1,2 @@
 # derekMakesAMistake
-A repo for showing a merge conflict to T1 HOLA
+Derek really does make mistakes and thats Ok. Derek makes mistakes because we all do
